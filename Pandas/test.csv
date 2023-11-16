@@ -1,0 +1,16 @@
+home_team,away_team,minute,penalty
+Chile,Uruguay,44.0,False
+Chile,Uruguay,55.0,False
+Chile,Uruguay,70.0,False
+Chile,Uruguay,75.0,False
+Argentina,Chile,2.0,False
+Argentina,Chile,44.0,False
+Argentina,Chile,60.0,True
+Argentina,Chile,62.0,True
+Argentina,Chile,67.0,False
+Argentina,Chile,75.0,False
+Argentina,Chile,81.0,False
+Brazil,Chile,29.0,False
+Brazil,Chile,85.0,False
+Argentina,Brazil,10.0,False
+Argentina,Brazil,23.0,False
